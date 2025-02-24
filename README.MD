@@ -49,6 +49,3 @@ Java Task Manager is a simple task management application built using Java. It a
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
